@@ -1,0 +1,12 @@
+{
+	"Name": "ramesh",
+	"Age": 23,
+	"Contact": "233364478",
+	"Company": "hug",
+	"Address": {
+		"City": "jaipur",
+		"State": "Rajasthan",
+		"Country": "india",
+		"Pincode": 410063
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "mukesh",
+	"Age": 23,
+	"Contact": "973364456",
+	"Company": "monk",
+	"Address": {
+		"City": "udaipur",
+		"State": "Rajasthan",
+		"Country": "india",
+		"Pincode": 410063
+	}
+}

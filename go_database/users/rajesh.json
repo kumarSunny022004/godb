@@ -1,0 +1,12 @@
+{
+	"Name": "rajesh",
+	"Age": 23,
+	"Contact": "800364456",
+	"Company": "carlos",
+	"Address": {
+		"City": "jhalor",
+		"State": "Rajasthan",
+		"Country": "india",
+		"Pincode": 410063
+	}
+}

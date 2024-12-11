@@ -1,0 +1,12 @@
+{
+	"Name": "ravi",
+	"Age": 23,
+	"Contact": "123464456",
+	"Company": "dingling",
+	"Address": {
+		"City": "jodhpur",
+		"State": "Rajasthan",
+		"Country": "india",
+		"Pincode": 410063
+	}
+}

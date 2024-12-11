@@ -1,0 +1,12 @@
+{
+	"Name": "Jhon",
+	"Age": 23,
+	"Contact": "233364456",
+	"Company": "Cuddle",
+	"Address": {
+		"City": "bikaner",
+		"State": "Rajasthan",
+		"Country": "india",
+		"Pincode": 410063
+	}
+}

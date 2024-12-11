@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1167" dy="619" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="4A0va7lSWSrvKURl_tnL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4A0va7lSWSrvKURl_tnL-2" target="4A0va7lSWSrvKURl_tnL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4A0va7lSWSrvKURl_tnL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#a7bddc;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="182" y="91" width="494" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="4A0va7lSWSrvKURl_tnL-7" value="CRITICAL DATA PATH" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="234" y="13" width="351" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="4A0va7lSWSrvKURl_tnL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4A0va7lSWSrvKURl_tnL-21" target="4A0va7lSWSrvKURl_tnL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4A0va7lSWSrvKURl_tnL-21" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#a7bddc;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="182" y="258" width="494" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4A0va7lSWSrvKURl_tnL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4A0va7lSWSrvKURl_tnL-23" target="4A0va7lSWSrvKURl_tnL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4A0va7lSWSrvKURl_tnL-23" value="Logic to create files&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#a7bddc;rounded=0;resizable=1;fontSize=26;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="182" y="428" width="494" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="4A0va7lSWSrvKURl_tnL-25" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#a7bddc;rounded=0;resizable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="182" y="596.5" width="494" height="66.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4A0va7lSWSrvKURl_tnL-27" value="Logic to create a data type&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="182" y="91" width="494" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="4A0va7lSWSrvKURl_tnL-28" value="Logic to write into files" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="182" y="598" width="494" height="70.75" as="geometry" />
+        </mxCell>
+        <mxCell id="4A0va7lSWSrvKURl_tnL-30" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Logic to write data to data base&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="182" y="258" width="494" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

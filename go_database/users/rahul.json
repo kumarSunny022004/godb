@@ -1,0 +1,12 @@
+{
+	"Name": "rahul",
+	"Age": 23,
+	"Contact": "567364456",
+	"Company": "magnus",
+	"Address": {
+		"City": "bikaner",
+		"State": "Rajasthan",
+		"Country": "india",
+		"Pincode": 410063
+	}
+}
